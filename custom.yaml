@@ -1,0 +1,6 @@
+train : C:\Users\Joel\Desktop\Number plate\train
+val : C:\Users\Joel\Desktop\Number plate\val
+
+nc : 3
+
+name : ["0" , "object", "plate - v2 2023-10-17 6:21pm"]
